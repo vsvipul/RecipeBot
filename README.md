@@ -21,7 +21,7 @@ It is also designed to suggest dishes and recipies for different occasions of In
 5.	Insert your API Keys for FB Developers and DialogFlow into the file 'helpers/processMessage.js'.
 6. 	Apply the required integrations on DialogFlow.
 7.  Run index.js. If all is well with your bot, you should get replies from the bot in Messenger for some simple questions.
-8. 	For any help related to setup, refer to the tutorial (here)[https://medium.com/crowdbotics/how-to-create-your-very-own-facebook-messenger-bot-with-dialogflow-and-node-js-in-just-one-day-f5f2f5792be5].
+8. 	For any help related to setup, refer to the tutorial [here](https://medium.com/crowdbotics/how-to-create-your-very-own-facebook-messenger-bot-with-dialogflow-and-node-js-in-just-one-day-f5f2f5792be5).
 
 ## What can it do?
 RecipeBot can do a variety of things related to recipes. Some of them are-
